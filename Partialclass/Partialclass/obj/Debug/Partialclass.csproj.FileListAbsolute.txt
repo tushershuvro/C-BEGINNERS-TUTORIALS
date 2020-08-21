@@ -1,0 +1,7 @@
+C:\Users\Tusher Shuvro\Desktop\StudentDesk\Partialclass\Partialclass\bin\Debug\Partialclass.exe.config
+C:\Users\Tusher Shuvro\Desktop\StudentDesk\Partialclass\Partialclass\bin\Debug\Partialclass.exe
+C:\Users\Tusher Shuvro\Desktop\StudentDesk\Partialclass\Partialclass\bin\Debug\Partialclass.pdb
+C:\Users\Tusher Shuvro\Desktop\StudentDesk\Partialclass\Partialclass\obj\Debug\Partialclass.csprojAssemblyReference.cache
+C:\Users\Tusher Shuvro\Desktop\StudentDesk\Partialclass\Partialclass\obj\Debug\Partialclass.csproj.CoreCompileInputs.cache
+C:\Users\Tusher Shuvro\Desktop\StudentDesk\Partialclass\Partialclass\obj\Debug\Partialclass.exe
+C:\Users\Tusher Shuvro\Desktop\StudentDesk\Partialclass\Partialclass\obj\Debug\Partialclass.pdb
